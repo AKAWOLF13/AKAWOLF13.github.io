@@ -7,6 +7,16 @@ body{
 p{
     width:750px;
 }
-
-
+.fotorama{
+    display:blcok;
+}
+.col-xs-4{
+    float:none;
+}
+#box{
+    height:200px;
+}
+h1{
+    width:48.2%;
+}
 
