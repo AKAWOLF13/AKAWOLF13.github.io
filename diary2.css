@@ -19,4 +19,9 @@ p{
 h1{
     width:48.2%;
 }
-
+.board{
+    width:250px; display:block;
+}
+.video{
+    display:block;
+}
